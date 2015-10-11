@@ -13,7 +13,7 @@ Od začátku bychom měli říkat, že kurz vyžaduje důslednou práci na úkol
 Bylo vidět, že holky si často připadaly ztraceně nebo hloupě. Ty pocity zažívají i zkušení programátoři každý den, ale to začátečník neví a připadá si, že se nikdy nemůže naučit programovat. Pomohlo by, kdyby kouči zdůrazňovali, že začátky jsou těžké, a u náročnější partie explicitně říct něco jako: "Já tohle pochopil až napočtvrté/po měsíci." nebo "Tohle téma se na VŠ bere půl semestru."
 
 ### 1.3 Poučit dopředu všechny kouče o desateru
-V průběhu jsme zjistili, že i když si všichni přejeme přátelskou atmosféru, nemůže být na srazech chaos. Terka proto dala dohromady Desatero pro kouče, které teď zrovna nemohu najít. Důležité je hlavně nedělat práci za holky, pomáhat jim, ale nechat je na řešení přijít samy. Pak taky zajistit hlavnímu koučovi klid na práci a to jak ze strany vedlejších koučů, tak ze strany studentek.
+V průběhu jsme zjistili, že i když si všichni přejeme přátelskou atmosféru, nemůže být na srazech chaos. Terka proto dala dohromady [Desatero pro kouče](https://github.com/PyLadiesCZ/pyladies/issues/15). Důležité je hlavně nedělat práci za holky, pomáhat jim, ale nechat je na řešení přijít samy. Pak taky zajistit hlavnímu koučovi klid na práci a to jak ze strany vedlejších koučů, tak ze strany studentek.
 
 ### 1.4 Držet počet hlavních koučů v rozumných mezích
 Přílišné střídání koučů není pro kurz dobré. Podmínka, aby hlavní kouč byl alespoň vedlejším koučem na předešlém srazu je nutná. Ale i tak by bylo lepší držet počet hlavních koučů nízký (řekněme do 4) a nestřídat je často, spíš se snažit naplánovat pro hlavního kouče blok 3 nebo 4 srazů po sobě. Střídání po jedné hodině je náročné pro hlavního kouče i pro holky.
