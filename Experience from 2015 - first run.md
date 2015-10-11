@@ -23,8 +23,12 @@ Přílišné střídání koučů není pro kurz dobré. Podmínka, aby hlavní 
 ### 2.1 Vyzkoušet materiály pro všechny platformy
 Nejčastěji byl problém s Windows, někdy s MacOS (viz Grafika na Verčině MacBooku). Hlavní kouč musí mít v Windows v malíčku -- instalaci Pythonu, Unicode znaky, nepoužitelný terminál a práci s Gitem (hlavně kterou instalačku použít).
 
+Tyto problémy by měly být zmíněny i v materiálech. (V Brně je nedostatek Windowsích koučů, tak se řešení bastlí na srazu na koleně, a výsledky tohohle jsem do materiálů pak radši nedal – PV)
+
 ### 2.2 Dělat úlohy maximálně multiplatformní
 Různé instrukce pro různé systémy jsou pro holky zbytečně matoucí a hlavnímu koučovi ubírají čas na vysvětlení samotného problému. Do příštího kurzu by bylo dobré zvážit použití [Minicondy](http://conda.pydata.org/miniconda.html) a [IPython](http://ipython.org/) Notebooku, což jsou nástroje, které se chovají na všech platformách stejně (teoreticky) a na Windows řadu věcí zjednodušují (hlavně instalaci knihoven jako je NumPy či SciPy, které mohou být snadno použity pro zpestření úkolů). Instrukce by pak mohly být pro různé platformy podobnější.
+
+[Pozn. PV] V mém podání má kurz učit i práci s příkazovou řádkou a Gitem, bez kterých se programátor neobejde. Takže Notebook leda na nějaké odbočky (viz Data). Minicondě bych se v zásadě nebránil, (zvlášť pokud by byla použitá jen pro Windows) – pokud pod ní teda funguje pip.
 
 ## 3. Výuka
 
