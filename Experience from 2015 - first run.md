@@ -18,6 +18,9 @@ V průběhu jsme zjistili, že i když si všichni přejeme přátelskou atmosf�
 ### 1.4 Držet počet hlavních koučů v rozumných mezích
 Přílišné střídání koučů není pro kurz dobré. Podmínka, aby hlavní kouč byl alespoň vedlejším koučem na předešlém srazu je nutná. Ale i tak by bylo lepší držet počet hlavních koučů nízký (řekněme do 4) a nestřídat je často, spíš se snažit naplánovat pro hlavního kouče blok 3 nebo 4 srazů po sobě. Střídání po jedné hodině je náročné pro hlavního kouče i pro holky.
 
+### 1.5 Psát shrnutí
+Červené a zelené papírky jsou hezký suvenýr pro hlavního kouče, ale zvlášť když se hlavních koučů střídá víc, měly by připomínky být dostupné všem. Bylo by fajn, kdyby hlavní kouč vždycky napsal krátké shrnutí. ([příklad](https://github.com/PyLadiesCZ/pyladies/blob/gh-pages/v1/s004-strings/poznamky.txt))
+
 ## 2. Technické problémy
 
 ### 2.1 Vyzkoušet materiály pro všechny platformy
