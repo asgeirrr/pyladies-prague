@@ -36,6 +36,8 @@ Harmonogram je potřeba, ale není to tak, že by přes něj nějel vlak. Každ�
 
 Objevil se nápad, aby kromě výkladu byla další hodina vyloženě konzultace nad úkoly, popř. jeden týden učit, druhý týden konzultovat. 
 
+[Pozn. PV] Nové úkoly mají od [druhé sady](http://pyladies.cz/v1/s002-hello-world/handout/handout2.pdf) sekce s poznámkou, co se v nich dělá a jak je to důležité. Snad tenhle experiment vyjde.
+
 ### 3.3 Prakticky zaměřené úlohy
 
 Téma srazu může být např. _Seznamy_, ale výstupem by mělo být něco užitečného, při čem se seznamy procvičí, a zároveň by to mělo mít nějaký pěkný výstup (např. graf nebo jinou vizualizaci), tím podpoříme radost z programování. Není dobré vyjmenovávat všechno, co se dá se seznamy dělat, spíš se soustředit na základní použití. Poskytnutí [taháku](http://pyladies.cz/v1/s007-cards/list-cheatsheet.html) všech funkcí seznamů je ale užitečné.
